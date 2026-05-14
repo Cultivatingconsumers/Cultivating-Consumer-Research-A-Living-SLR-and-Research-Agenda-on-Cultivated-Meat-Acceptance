@@ -1,0 +1,2 @@
+# Consumer-Research-A-Living-Systematic-Review-and-Research-Agenda-on-Cultivated-Meat-Acceptance
+This database supporting the systematic review “Cultivating Consumer Research: A Living Systematic Review and Research Agenda on Cultivated Meat Acceptance.” It compiles peer-reviewed studies, offering a centralized, continuously updated mapping on cultivated meat consumer researchup to 30 June 2025. Users should cite the dataset (CC BY 4.0).
